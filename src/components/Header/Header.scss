@@ -1,0 +1,12 @@
+.header {
+  padding: 24px 0;
+
+  box-shadow: 0 1px 0 rgba(17, 17, 17, 0.1);
+
+  &__inner {
+    padding: 0 185px 0 92px;
+
+    display: flex;
+    align-items: center;
+  }
+}

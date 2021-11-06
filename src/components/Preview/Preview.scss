@@ -1,0 +1,48 @@
+@import "../../assets/scss/extends";
+
+.preview {
+  font-size: 16px;
+
+  &__inner {
+    padding-top: 30px;
+  }
+
+  .title {
+    margin-bottom: 20px;
+  }
+
+  &__personal {
+    margin-bottom: 60px;
+
+    @extend %montserrat700;
+
+    color: #111111;
+  }
+
+  &__children {
+    &-text {
+      margin-bottom: 20px;
+
+      @extend %montserrat500;
+
+      color: #111111;
+    }
+
+    &-item {
+      &:not(:last-child) {
+        margin-bottom: 20px;
+      }
+
+      span {
+        padding: 10px 20px;
+
+        display: inline-block;
+
+        @extend %montserrat700;
+
+        background-color: #F1F1F1;
+        border-radius: 5px;
+      }
+    }
+  }
+}

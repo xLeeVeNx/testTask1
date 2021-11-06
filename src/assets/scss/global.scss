@@ -1,0 +1,44 @@
+body {
+  font-size: 14px;
+  line-height: 24px;
+
+  @extend %montserrat400;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 15px;
+
+  max-width: 646px;
+  width: 100%;
+}
+
+.title {
+  @extend %montserrat500;
+  font-size: 16px;
+
+  color: #111111;
+}
+
+.error {
+  position: absolute;
+  top: 5px;
+  right: 16px;
+  z-index: 1;
+
+  font-size: 13px;
+
+  color: red;
+}
