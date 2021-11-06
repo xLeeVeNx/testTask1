@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testTask1/static/css/main.b9a45e87.chunk.css",
+    "main.js": "/testTask1/static/js/main.d09353bd.chunk.js",
+    "main.js.map": "/testTask1/static/js/main.d09353bd.chunk.js.map",
+    "runtime-main.js": "/testTask1/static/js/runtime-main.3cf85282.js",
+    "runtime-main.js.map": "/testTask1/static/js/runtime-main.3cf85282.js.map",
+    "static/js/2.612483cb.chunk.js": "/testTask1/static/js/2.612483cb.chunk.js",
+    "static/js/2.612483cb.chunk.js.map": "/testTask1/static/js/2.612483cb.chunk.js.map",
+    "index.html": "/testTask1/index.html",
+    "static/css/main.b9a45e87.chunk.css.map": "/testTask1/static/css/main.b9a45e87.chunk.css.map",
+    "static/js/2.612483cb.chunk.js.LICENSE.txt": "/testTask1/static/js/2.612483cb.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/testTask1/static/media/Montserrat-Regular.d4f770a4.ttf",
+    "static/media/logo.6c8355b1.svg": "/testTask1/static/media/logo.6c8355b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cf85282.js",
+    "static/js/2.612483cb.chunk.js",
+    "static/css/main.b9a45e87.chunk.css",
+    "static/js/main.d09353bd.chunk.js"
+  ]
+}
